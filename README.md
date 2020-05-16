@@ -1,3 +1,10 @@
+The purpose of the study is to understand how plants can interact to communicate with each other.
+
+An experimental part conducted by a group of American students (University of Georgia) tended to show that nearby bean plants exposed to different concentrations of nutrients can communicate through the root systems.
+
+We used a modelling approach aimed at determining the vector of such a signal according to two main hypotheses: an active transport by mycorrhizae and a passive transport by diffusion of molecules in the medium.
+
+
 In this repository, you will find :
 - report.pdf : written report
 - param.raparam and param.param : root architecture parameter set for CRootBox
